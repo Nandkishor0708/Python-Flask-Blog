@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri":"mysql://root:@localhost/beyondhelloworld",
+    "prod_uri": "mysql://root:@localhost/beyondhelloworld",
+    "fb_url": "https://facebook.com/beyondhelloworld",
+    "tw_url": "https://twitter.com/beyondhelloworld",
+    "gh_url": "https://github.com/beyondhelloworld",
+    "blog_name": "All About Reva!",
+    "tag_line": "Celebrating Reva's First Birthday.. :)",
+    "gmail-user":"nandkishor792@gmail.com",
+    "gmail-pwd" : "",
+    "about_text" : "Hi My name is NK, I am creating this blog using Flask-Python. Just to share what we know",
+    "no_of_post" : 4,
+    "login_img": "bootstrap-solid.svg",
+    "admin_user": "Reva",
+    "admin_password": "9594497740",
+    "upload_location" : "C:\\Users\\hp\\PycharmProjects\\FlaskTut\\static\\img"
+  }
+
+}
